@@ -17,6 +17,7 @@ Features include:
 - Subscription system
 - Admin functionality
 - Responsive PWA experience
+![Diecast Showroom](diecast-showroom.png)
 
 ## 🤖 PostMasterAI
 
@@ -30,12 +31,16 @@ Features include:
 - User-specific data
 - Dashboard workflows
 - Persistent database storage
+![PostMasterAI](postmaster-ai.png)
+🔗 [Live Demo](https://ai-postmaster.com)
+
 
 ## 👥 GroupUp
 
 A responsive web application concept built as a rapid product prototype.
 
 **Built with:** Lovable, React
+![GroupUp](groupUp.png)
 
 Focused on clean UI/UX, responsive design, and fast MVP development.
 
